@@ -1,0 +1,1 @@
+[{"model": "store.artist", "pk": 2, "fields": {"name": "Francis Cabrel"}}, {"model": "store.contact", "pk": 1, "fields": {"email": "g@gmai.com", "name": "d"}}, {"model": "store.album", "pk": 1, "fields": {"reference": null, "created_at": "2019-12-25T03:05:11.956Z", "available": false, "title": "Sarbacane", "picture": "", "artists": [2]}}]
